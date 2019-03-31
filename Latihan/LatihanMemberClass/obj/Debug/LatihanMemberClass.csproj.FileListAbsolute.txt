@@ -1,0 +1,14 @@
+D:\2309\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csprojAssemblyReference.cache
+D:\2309\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.CoreCompileInputs.cache
+D:\2309\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe.config
+D:\2309\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe
+D:\2309\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.pdb
+D:\2309\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.exe
+D:\2309\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.pdb
+D:\github\latihan pemrog\2309\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe.config
+D:\github\latihan pemrog\2309\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe
+D:\github\latihan pemrog\2309\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.pdb
+D:\github\latihan pemrog\2309\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csprojAssemblyReference.cache
+D:\github\latihan pemrog\2309\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.CoreCompileInputs.cache
+D:\github\latihan pemrog\2309\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.exe
+D:\github\latihan pemrog\2309\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.pdb
